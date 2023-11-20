@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ksundong/backend-interview-question/assets/129818881/5de2c827-b937-4c12-a679-ad821ce02629" alt="Banner" max-width:600px;>
-</p>
-
 # 일정 
 - 일시 : 매주 월,금
 - 장소 : 오프라인
